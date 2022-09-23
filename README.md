@@ -27,8 +27,10 @@ public class LatihanServiceApplication {
     }
 }
 ```
+### Langkah 3 :
 ##### Kemudian cari proyek aplication.properties yang berada di Other Source >> src/main/resources >> <default package> >> aplication.properties kemudian masukkan code berikut :
 ```java
 server.port=8010
 ```
+### Langkah 4 :
 ##### setelah itu coba di buka link berikut [http://localhost:8010/hello](http://localhost:8010/hello)
