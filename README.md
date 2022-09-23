@@ -1,7 +1,7 @@
 # PemogramanClientServer-Praktek
 ## Langkah - Langkah Membuat Latihan 1
 ### Langkah 1 : 
-####  Buat proyek web menggunakan link berikut [start.spring.io](https://start.spring.io/) kemudian download dan extrack dari zip menjadi file kemudian import ke dalam apache netbean
+####  Buat proyek web menggunakan link berikut [start.spring.io](https://start.spring.io/)  kemudian pilih Spring web dan kemudian bahasa java dan sesuaikan versinya dengan device kemudian isi artifactnya dan lainnya kemudian download dan extrack dari zip menjadi file kemudian import ke dalam apache netbean 
 ### Langkah 2 :
 #### Kemudian cari proyek yang bernama LatihanServiceApplication dibawah package com.fadhel.latihan.service kemudian pada proyek itu masukkan code berikut :
 ```java
