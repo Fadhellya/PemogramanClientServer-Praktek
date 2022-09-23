@@ -34,3 +34,7 @@ server.port=8010
 ```
 ### Langkah 4 :
 ##### setelah itu coba di buka link berikut [http://localhost:8010/hello](http://localhost:8010/hello)
+##### dan akan muncul Output seperti berikut
+```java
+Hellow World!
+```
