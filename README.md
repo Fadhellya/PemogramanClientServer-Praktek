@@ -35,4 +35,4 @@ server.port=8010
 ### Langkah 4 :
 ##### setelah itu coba di buka link berikut [http://localhost:8010/hello](http://localhost:8010/hello)
 ##### dan akan muncul Output seperti berikut
-
+![1](https://user-images.githubusercontent.com/113502315/192090587-5687bb5e-b361-40e5-9d8f-61e8d3dab2a5.png)
